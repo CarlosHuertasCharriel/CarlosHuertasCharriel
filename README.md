@@ -1,6 +1,6 @@
 ## Esta es mi Presentación personal modificada
 
-**Hola** a todos
+**Hola** a todos. Estoy aprendiendo cómo usar GitHub!
 
 <!--
 **CarlosHuertasCharriel/CarlosHuertasCharriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
